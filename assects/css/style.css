@@ -66,6 +66,7 @@ section .main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding:0 20px;
     
 }
 /*----------- Main Section end ------------ */
@@ -168,6 +169,9 @@ footer .row2 ul {
 }
 footer .row2 ul li {
     margin-right: 30px;    
+}
+footer .row2 ul li:last-child {
+    margin-right:0;    
 }
 
 footer .row2 ul li a {
