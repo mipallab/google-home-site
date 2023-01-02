@@ -11,4 +11,4 @@
 This is tested 450px(mobile browser)
 
 
-Online This site [Click Here](https://mipallab.github.io/google-home-site/){:target="_blank"}
+Online This site [Click Here](https://mipallab.github.io/google-home-site/)
