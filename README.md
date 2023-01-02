@@ -3,10 +3,12 @@
 <img src="./assects/image/site.png" alt="Google Home site">
 
 
+
 ## This website is also responsive site
 
 <img src="./assects/image/responsive site.png" alt="Google Home site">
 
-this is tested 450px(mobile browser)
+This is tested 450px(mobile browser)
 
-Online This site [Click Here](https://mipallab.github.io/google-home-site/)
+
+Online This site [Click Here](https://mipallab.github.io/google-home-site/){:target="_blank"}
